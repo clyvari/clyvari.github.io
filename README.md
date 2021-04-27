@@ -1,3 +1,6 @@
+---
+title: Projects
+---
 # Test
 
 First content
